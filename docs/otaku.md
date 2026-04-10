@@ -157,7 +157,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Dark Mahou](https://darkmahou.org/)
 
 - Site brasileiro de anime com arquivos torrent para baixar de graça.
-- Recomendamos o uso de adblock devido a quantidade imensa de anúncios maliciosos.
+- Recomendamos o uso de adblock devido a quantidade imensa de [malvertising](https://en.wikipedia.org/wiki/Malvertising).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
@@ -178,7 +178,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [UniOtaku](https://tracker.uniotaku.com/)
 
-- Tracker semi-privado brasileiro (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
+- Tracker privado brasileiro de animes legendados por fansubs, ativo desde 2014.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
 #### 🔗 [Erai-Raws](https://www.erai-raws.info/)
 
