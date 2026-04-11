@@ -148,11 +148,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Banco de dados com uma variedade de programas de edição de vídeo e áudio para os sistemas operacionais Windows, Macintosh e GNU/Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
-### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa
-
-- Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/)
-
 ## 🧩 Patchers
 
 ### 🌟 [GenP](https://gen.paramore.su/)
