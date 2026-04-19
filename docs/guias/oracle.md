@@ -179,7 +179,7 @@ Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 :::tip Dando uma estrela no repositório oficial deles você ganha mais um domínio totalmente de graça.
 :::
 
-Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
+Agora chegou a vez de configurar um DNS, usarei a Hostry como exemplo:
 
 https://hostry.com/products/dns
 
