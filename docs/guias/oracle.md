@@ -132,9 +132,7 @@ Remova todos os outros usuários e Salve
 
 Quando logar, é essencial que atualize todos os pacotes com os comandos:
 
-` sudo apt-get update`
-
-& ` sudo apt update`
+` sudo apt-get update` & ` sudo apt update`
 
 ## 4. Como abrir portas do servidor
 
@@ -172,7 +170,7 @@ Tendo como objetivo fazer reverse proxy dentro do [Coolify](https://coolify.io/d
 
 Em suma, faremos isso através de uma gambiarra sem a CloudFlare, já que a mesma não aceita muito bem os domínios da lista do DigitalPlat FreeDomain.
 
-Acesse o site https://domain.digitalplat.org/ e crie uma conta com o GitHUb para não lidar com KYC.
+Acesse o site https://domain.digitalplat.org/ e crie uma conta com o GitHub para não lidar com KYC.
 
 Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 
