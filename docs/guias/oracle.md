@@ -168,7 +168,7 @@ Crie um orçamento de acordo com o modelo demonstrado, o destinatário será o s
 
 Tendo como objetivo fazer reverse proxy dentro do [Coolify](https://coolify.io/docs/get-started/installation#self-hosted-installation) e assim mitigar riscos.
 
-Em suma, faremos isso através de uma gambiarra sem a CloudFlare, já que a mesma não aceita muito bem os domínios da lista do DigitalPlat FreeDomain.
+Em suma, faremos isso através de uma gambiarra sem a Cloudflare, já que a mesma não aceita muito bem os domínios da lista do DigitalPlat FreeDomain.
 
 Acesse o site https://domain.digitalplat.org/ e crie uma conta com o GitHub para não lidar com KYC.
 
@@ -180,6 +180,8 @@ Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 :::
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
+
+https://hostry.com/products/dns
 
 ![digitalplat2.1](./images/digitalplat2.1.png)
 
