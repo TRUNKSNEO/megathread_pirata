@@ -78,6 +78,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
 
+### ▶️ [CineRave](http://cinerave.netlify.app)
+
+- Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
+
 ### ▶️ [PobreFlix](https://lospobreflix.site/)
 
 - Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.

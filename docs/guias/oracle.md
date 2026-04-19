@@ -5,7 +5,7 @@
 Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e 4 Gbps de banda larga.
 Independente do que fizer, será necessário comfirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
 
-::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
+:::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
 :::
 
 Testado e aprovado com:
@@ -21,7 +21,7 @@ Testado e aprovado com:
 
 Primeiro, vá para o site: https://www.oracle.com/br/cloud/free/
 
-Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
+Indo para a parte em que você se cadastra, antes de terminar, **selecione a região "US-West Phoenix"** que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
 
 ![oracle1.2](./images/oracle1.2.png)
 
@@ -78,9 +78,9 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
 Dê permissão read-and-write
 
- ` chmod 600 <endereço/da/chaveprivada.key>`
+ ` chmod 600 /root/endereçodachaveprivada.key`
 
- ` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
+ ` ssh -i /root/endereçodachaveprivada.key ubuntu@endereçodamáquinaaqui`
 
  Você pode utilizar aliases também para se conectar - O GPT é seu amigo, lembre-se.
 
@@ -118,7 +118,7 @@ Clique nas Propriedades da chave privada
 
  ![oracle9](./images/oracle9.png)
 
-Vá para Segurança e depois Avançado
+Vá para Segurança e depois em configurações Avançadas
 
  ![oracle10](./images/oracle10.png)
  
@@ -128,7 +128,7 @@ Habilitar Herança > Converter as permissões herdadas em permissões explícita
  
 Remova todos os outros usuários e Salve
 
-` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
+` ssh -i C:/endereço/da/chaveprivada.key ubuntu@endereçodamáquinaaqui`
 
 Quando logar, é essencial que atualize todos os pacotes com os comandos:
 
@@ -178,7 +178,7 @@ Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 
 ![digitalplat1](./images/digitalplat1.png)
 
-:::info Dando uma estrela no repositório oficial deles você ganha mais um domínio totalmente de graça.
+:::tip Dando uma estrela no repositório oficial deles você ganha mais um domínio totalmente de graça.
 :::
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
