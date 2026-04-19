@@ -31,7 +31,7 @@ Clique no botão "Criar Instância"
 
 Em posicionamento, deixe no que está, caso aconteça algum problema, tente mudar para AD 2 ou AD 3
 
-Agora mude o sistema operacional que tu vai utilizar do padrão Oracle Linux para o do Ubuntu (Server) 24.04/LTS
+Agora mude o sistema operacional que tu vai utilizar do padrão Oracle Linux para Ubuntu (Server) 24.04/LTS
 
 ![oracle1](./images/oracle1.png)
 
