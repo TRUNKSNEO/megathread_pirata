@@ -134,7 +134,7 @@ Quando logar, é essencial que atualize todos os pacotes com os comandos:
 
 ` sudo apt-get update` & ` sudo apt update`
 
-## 4. Como abrir portas do servidor
+## 4. Como abrir portas no servidor nginx
 
 Alguns serviços gratuitos como o [Coolify](https://coolify.io/docs/knowledge-base/server/firewall#coolify-self-hosted), SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
 
