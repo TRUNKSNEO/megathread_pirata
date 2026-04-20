@@ -24,7 +24,7 @@ Guia para instalar plugins no qBitTorrent, permitindo fazer buscas de fontes seg
 
 ## 📑 ➜ [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas.md)
 
-Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Este artigo demonstra como abrir portas em um roteador na rede CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
+Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Demonstraremos como abrir essas portas em um roteador no CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
 
 ## 📑 ➜ [Como configurar o DNS no Windows e Android](guias/dns.md)
 
