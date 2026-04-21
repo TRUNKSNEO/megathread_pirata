@@ -132,7 +132,7 @@ Remova todos os outros usuários e Salve
 
 Quando logar, é essencial que atualize todos os pacotes com os comandos:
 
-` sudo apt-get update` & ` sudo apt update`
+` sudo apt-get update` & ` sudo apt upgrade`
 
 ## 4. Como abrir portas no servidor nginx
 
