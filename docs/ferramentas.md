@@ -283,15 +283,16 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download
 
+- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno e prático para fazer o download de vídeos e faixas de áudio de centenas de milhares de sites.
 - [Media Downloader](https://github.com/mhogomchungu/media-downloader) - Wrapper simples para o wget, you-get, svtplay-dl, lux e [safaribooks](https://github.com/lorenzodifuccia/safaribooks?tab=readme-ov-file) - confira a [wiki oficial](https://github.com/mhogomchungu/media-downloader/wiki/Extensions) para instalar outras extensões manualmente como pacotes json.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta baseada no yt-dlp para baixar imagens/vídeos/música/texto e muito mais - requer que tu logue na sua conta para efetuar o download direto de redes sociais.
+- [OmniGet](https://github.com/tonhowtf/omniget) - Extraia cursos da Hotmart, Udemy, Kiwify, Teachable e mais 6 plataformas. Faça login uma vez e baixe todas as aulas completas com anexos e descrições.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos de grandes tamanhos sejam eles protegidos ou não.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
 - **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o sistema operacional Android.
 - **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
 - **[Trialware]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
-- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
 - 🌟 **[Freemium]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
