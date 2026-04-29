@@ -77,11 +77,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📥 Download direto
 
-### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** 
-
-- Acesse o grupo do Polemic ZIP, filmes e docs pelo linktree.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/linktr.ee/)
-
 ### 🔗 [Online Courses](https://online-courses.club/)
 
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
@@ -167,9 +162,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📣 No Telegram
 
-### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
+### 🌟 **[Polemic Knowledge](https://bio.site/bepolemic)**
 
-- Backup do canal do Polemic / [Projeto novo gerido por outra equipe.](https://bio.site/bepolemic)
+- Grupos para obter cursos, filmes e documentários. Criado como forma de manter o legado do antigo Polemic vivo.
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
