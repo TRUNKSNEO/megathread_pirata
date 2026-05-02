@@ -384,11 +384,19 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ## 🎮 Visual Novel
 
-‎
+‎#### 🔗 [Sekai Visual Novel](https://www.sekaivisualnovels.com/)
+
+- Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
+
+#### 🔗 [KikaChan](https://kikachangames.github.io/projetos/#equipe)
+
+- Grupo dedicado à tradução, adaptação e port de visual novels para o português brasileiro. Sempre buscando oferecer atenção à qualidade e respeito pelas obras originais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kikachangames.github.io/)
 
 #### 🔗 [VNDB](https://vndb.org/)
 
-- Projetado para ser um banco de dados imenso de visual novels (inclusive de VNs em português).
+- Projetado para ser um banco de dados imenso de visual novels e equipes de _fan translation_. (inclusive para materiais em português)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
 ‎
